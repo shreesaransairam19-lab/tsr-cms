@@ -1,6 +1,11 @@
 # TSR CMS
 
-A web-based College Management System for TSR, built with Next.js (App Router), TypeScript, Tailwind CSS and Supabase.
+TSR CMS is a web-based college management system for everyday campus work.
+It covers attendance, exams, fees, payroll, library, hostel and transport —
+all in one place, so students, staff and admins share a single dashboard
+instead of juggling separate tools and spreadsheets.
+
+Built with Next.js (App Router), TypeScript, Tailwind CSS and Supabase. Hosted on Vercel.
 
 ## Features
 
