@@ -1,0 +1,14 @@
+{
+  "appId": "tsr.cms",
+  "appName": "TSR CMS",
+  "webDir": "capacitor-web",
+  "server": {
+    "url": "https://tsr-cms.vercel.app",
+    "cleartext": true,
+    "allowNavigation": ["*.supabase.co", "*.vercel.app"]
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {}
+}
